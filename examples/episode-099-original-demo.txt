@@ -1,0 +1,114 @@
+EPISODE NUMBER: Episode 99
+EPISODE LOGLINE: A railway dispatcher discovers that her brother is aboard a sabotaged express train and must choose between saving him or exposing the plot.
+CONTINUITY NOTES: Self-contained synthetic example written for public demonstration. All characters and dialogue are fictional.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. RAILWAY SIGNAL CONTROL ROOM - NIGHT
+Scene start: 00:00.00
+Scene end: 01:12.00
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (00:00.00) | End: (00:02.80)
+A masked intruder violently slams a railway dispatcher against the signal console and raises a knife over her.
+
+**INTRUDER (Threatening):**
+Start: (00:00.20) | End: (00:02.80)
+"Touch that signal and your brother dies!"
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+A close shot of the steel blade and the red emergency lever as sparks fly from the broken console.
+
+**DISPATCHER (Terrified):**
+Start: (00:03.20) | End: (00:05.90)
+"My brother is on that train?"
+
+**INTRUDER (Cruel):**
+Start: (00:06.30) | End: (00:09.20)
+"Carriage seven. He never knew I was coming."
+
+**ACTION:**
+Start: (00:09.20) | End: (00:12.40)
+The dispatcher stares at a live clock counting down toward the bridge crossing while the knife stays at her throat.
+
+**DISPATCHER (Desperate):**
+Start: (00:12.60) | End: (00:15.80)
+"The bridge is closed. The train will crash!"
+
+**INTRUDER (Cold):**
+Start: (00:16.00) | End: (00:19.00)
+"Exactly. And you will be blamed for every death."
+
+**ACTION:**
+Start: (00:19.50) | End: (00:23.20)
+He handcuffs her wrist to the control desk, then tosses the emergency key across the room.
+
+**DISPATCHER (Angry):**
+Start: (00:23.50) | End: (00:26.60)
+"You sabotaged the brakes. I heard your men on the radio!"
+
+**INTRUDER (Mocking):**
+Start: (00:27.20) | End: (00:29.80)
+"Nobody will believe the woman who killed a train full of people."
+
+**SOUND FX:**
+Start: (00:30.00) | End: (00:32.00)
+A warning buzzer blares as the track display flashes red.
+
+**ACTION:**
+Start: (00:32.00) | End: (00:35.20)
+The dispatcher frees one wrist with a broken metal pin while the intruder turns toward the door.
+
+**DISPATCHER (Determined):**
+Start: (00:35.30) | End: (00:38.30)
+"I can still stop the train."
+
+**INTRUDER (Threatening):**
+Start: (00:38.40) | End: (00:41.00)
+"Then your brother is the first person I shoot."
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:43.00)
+A red signal pulses above the bridge map and the countdown ticks toward zero.
+
+**DISPATCHER (Urgent):**
+Start: (00:43.00) | End: (00:45.80)
+"Five seconds! There's no time!"
+
+**ACTION:**
+Start: (00:46.00) | End: (00:49.00)
+The dispatcher lunges for the emergency lever as the intruder aims his pistol at her.
+
+**INTRUDER (Shouting):**
+Start: (00:49.20) | End: (00:51.70)
+"Don't pull it!"
+
+**SOUND FX:**
+Start: (00:52.00) | End: (00:54.30)
+A gunshot echoes and the signal lights go dark.
+
+**ACTION:**
+Start: (00:54.30) | End: (00:57.50)
+The dispatcher falls against the lever and reaches with a bloodied hand as the train whistle screams outside.
+
+**DISPATCHER (Whispering):**
+Start: (00:57.80) | End: (01:00.20)
+"Please... stop..."
+
+**ACTION:**
+Start: (01:00.20) | End: (01:03.80)
+The red light abruptly turns green as the loudspeaker crackles with an unknown voice.
+
+**RADIO VOICE (Alarming):**
+Start: (01:04.00) | End: (01:07.00)
+"Control room, the bridge is gone!"
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:12.00)
+The dispatcher looks up in horror as a second, unseen explosion shakes the walls.
+
+--- SCRIPT END ---

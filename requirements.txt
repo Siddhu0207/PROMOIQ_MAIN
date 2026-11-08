@@ -1,0 +1,2 @@
+# Optional interactive UI; CLI scripts and tests need no third-party dependencies.
+streamlit>=1.32,<2
